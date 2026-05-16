@@ -2355,7 +2355,7 @@ requires-dist = [
     { name = "sentry-scm", specifier = ">=0.14.0" },
     { name = "sentry-sdk", extras = ["http2"], specifier = ">=2.59.0" },
     { name = "sentry-usage-accountant", specifier = ">=0.0.10" },
-    { name = "setuptools", specifier = ">=70.0.0" },
+    { name = "setuptools", specifier = ">=78.1.1" },
     { name = "simplejson", specifier = ">=3.17.6" },
     { name = "slack-sdk", specifier = ">=3.40.1" },
     { name = "snuba-sdk", specifier = ">=3.0.43" },
@@ -2615,10 +2615,10 @@ wheels = [
 
 [[package]]
 name = "setuptools"
-version = "70.0.0"
+version = "78.1.1"
 source = { registry = "https://pypi.devinfra.sentry.io/simple" }
 wheels = [
-    { url = "https://pypi.devinfra.sentry.io/wheels/setuptools-70.0.0-py3-none-any.whl", hash = "sha256:54faa7f2e8d2d11bcd2c07bed282eef1046b5c080d1c32add737d7b5817b1ad4" },
+    { url = "https://pypi.devinfra.sentry.io/wheels/setuptools-78.1.1-py3-none-any.whl", hash = "sha256:c3a9c4211ff4c309edb8b8c4f1cbfa7ae324c4ba9f91ff254e3d305b9fd54561" },
 ]
 
 [[package]]

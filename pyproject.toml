@@ -94,7 +94,7 @@ dependencies = [
   "sentry-sdk[http2]>=2.59.0",
   "sentry-usage-accountant>=0.0.10",
   # remove once there are no unmarked transitive dependencies on setuptools
-  "setuptools>=70.0.0",
+  "setuptools>=78.1.1",
   "simplejson>=3.17.6",
   "slack-sdk>=3.40.1",
   "snuba-sdk>=3.0.43",
